@@ -35,7 +35,7 @@ Quiz 2
 3.2 Intercultural Mobility \
 3.3 Intercultural Recruitment and Selection \
 3.4 Cultural Dimensions of Talent Management \
-3.5 Intercultural Rewards \
+3.5 Intercultural Rewards
 
 Quiz 3
 
@@ -44,7 +44,7 @@ Quiz 3
 4.2 International Product Decisions \
 4.3 International Promotion Decisions \
 4.4 International Place Decisions \
-4.5 International Pricing Decisions \
+4.5 International Pricing Decisions
 
 Quiz 4
 
@@ -53,7 +53,7 @@ Quiz 4
 5.2 Goals and Negotiation Approaches \
 5.3 Foreign Language Use: Proficiency and Anxiety \
 5.4 Style of Language: High-Context vs. Low-Context \
-5.5 The Role of Teams in Intercultural Business Negotiations \
+5.5 The Role of Teams in Intercultural Business Negotiations
 
 Quiz 5 \
 Final Quiz
